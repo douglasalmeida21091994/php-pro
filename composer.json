@@ -1,0 +1,19 @@
+{
+    "name": "pichau/php-pro",
+    "description": "Curso de PHP - Clube Full Stack",
+    "autoload": {
+        "files": [
+            "app/helpers/constantes.php"
+        ],
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Douglas Almeida",
+            "email": "110480637+douglasalmeida21091994@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
